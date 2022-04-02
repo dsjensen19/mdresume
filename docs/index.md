@@ -1,89 +1,103 @@
----
-layout: cv
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Derek Jensen
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="dsjensen19@gmail.com">dsjensen19@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/derek-jensen-4b85561aa/">LinkedIn</a>
+| <a href="https://github.com/dsjensen19">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2016`
+__Bear Creek High School__, Stockton, CA
 
-- Full academic scholarship with 4.0 GPA
+-Beginning High School Education
 
-`Expected 2029`
+`2016-2018`
+__BYU Independent Study__, Provo, UT
+
+-Finishing High School Education
+
+`2018-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Pursuing a degree in computer science
 
 
-## Related Experience
+## Experience
 
-### Internships
+### Content Warrior
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2021 - Present`
+__Income School Creators__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+I researched topics presented to me and wrote website pages for those topics
+- Scribed hundreds of website pages, each later being sold to customers and published
 
-### Data Science Lead
+### Research Assistant
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`July 2018 - September 2019`
+__Lipman Produce__, Manteca, CA
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+I worked alongside an agricultural scientist, helping him to obtain tomato samples, pack them, and ship them to Chile
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Organized teams of tomato pickers, helping each member acquire tomato samples correctly
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`October 2016 - April 2018`
+__Five Guys Burgers and Fries__, Stockton, CA
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+Worked as a crew member, serving in every capacity in the store
+- Became most experienced crew member at location and trained other crew members
+- Received training to become a regular shift lead, learning specifics of company policy and procedure
 
 
-## Service and Work History
+## Core Competencies
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- English (Native), Spanish (Fluent), Sign Language (Basic)
+
+- High familiarity with Python and associated dependencies
+
+- Basic experience coding in C++, Java, Kotlin, Rust, Clojure, and VBA
+
+- Much experience training and counseling people in a variety of roles
+
+- Obtained high familiarity with mathematical fundamentals and discrete mathematics
+
+## Leadership Skills
+
+- Led and mentored a troop of boy scouts, helping to achieve high honors in organization
+
+- Planned activities for adults and children as a leader of a church youth group
+
+- Trained and supported new employees at Five Guys
+
+- Mentored new missionaries to understand Peruvian culture and to follow mission standards
+
+- Taught Spanish to missionaries and English to civilians, helping pass standardized tests of fluency
+
+## Volunteer Experience
+
+- Provided service to community as a member of a boy scout troop
+
+- Spent over 30 hours serving at Saint Mary's Dining Hall and Boggs Tract Community Center in Stockton, CA
+
+- Spent 2 years serving as a missionary for The Church of Jesus Christ of Latter-Day Saints
+
+## Special Talents And Skills
+
+- Fluent in Spanish (4 years of education and 14 months in Peru)
+
+- Accustomed to talking with and meeting people
+
+- Experience in leading and building consensus at school, church, and at home (second oldest of 10 children)
+
+- Played a main character in high school production "Bye-Bye Birdie"
+
+- Achieved rank of Eagle Scout in Boy Scouts of America
 
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
